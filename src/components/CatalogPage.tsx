@@ -1146,6 +1146,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Fifty-Third Product - Reversible Smoky Vase */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/colored-glass-two-toned-vase.png"
+                    alt="Reversible Smoky Vase"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Reversible Smoky Vase</p>
+                <a
+                  href="https://www.amazon.com/dp/B0BNJH58XJ?asc_item-id=amzn1.ideas.2YS61G3G1IE4H&linkCode=ll2&tag=maisonpacem05-20&linkId=32764a1dcadaf633eac0d0c8b8ad4ef9&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
