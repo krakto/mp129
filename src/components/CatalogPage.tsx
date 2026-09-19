@@ -1206,6 +1206,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Fifty-Sixth Product - 'Bubble' Sculptural Vase */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/cream-textured-vase.png"
+                    alt="'Bubble' Sculptural Vase"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">'Bubble' Sculptural Vase</p>
+                <a
+                  href="https://www.amazon.com/dp/B0BN2VPNLJ?asc_item-id=amzn1.ideas.2YS61G3G1IE4H&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=a9aaa64b8c6f1ec7e350153e3dc53758&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
