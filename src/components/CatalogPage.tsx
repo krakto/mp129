@@ -1246,6 +1246,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Fifty-Eighth Product - Faux Hydrangea Flowers */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/fall-faux-dried-hydrangea-flowers.png"
+                    alt="Faux Hydrangea Flowers"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Faux Hydrangea Flowers</p>
+                <a
+                  href="https://www.amazon.com/dp/B0FKSGV2NJ?asc_item-id=amzn1.ideas.L6A30862KGUZ&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=53be8862479228a876547bbf71307813&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
