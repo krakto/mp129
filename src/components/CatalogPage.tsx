@@ -1266,6 +1266,26 @@ export function CatalogPage() {
                   Amazon Link
                 </a>
               </div>
+
+              {/* Fifty-Ninth Product - Faux 'Pompom' Flowers */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/faux-pompom-flowers.png"
+                    alt="Faux 'Pompom' Flowers"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-black mt-1 mb-2">Faux 'Pompom' Flowers</p>
+                <a
+                  href="https://www.amazon.com/dp/B0F37SWKP9?asc_item-id=amzn1.ideas.L6A30862KGUZ&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=a3fc1fe23a67df729816d2df25b2995b&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-[10px] text-gray-600 underline underline-offset-2 transition-colors hover:text-gray-500"
+                >
+                  Amazon Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
